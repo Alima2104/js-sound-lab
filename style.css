@@ -1,0 +1,46 @@
+body{
+  background-color: white;
+  transition: 0.5s linear all;
+  width: 100%;
+  height: 100%;
+}
+
+.interactable {
+  transition: 1s linear all;
+  position: absolute;
+  width: 50%;
+  height: 50%;
+  top: 25%;
+  left: 25%;
+  border: 2px solid #F79256;
+}
+
+.music_reply1 {
+  transition: 1s linear all;
+  position: absolute;
+  width: 50%;
+  height: 50%;
+  top: 25%;
+  left: 25%;
+  border: 4px solid #FBD1A2;
+}
+
+.music_reply2 {
+  transition: 1s linear all;
+  position: absolute;
+  width: 50%;
+  height: 50%;
+  top: 25%;
+  left: 25%;
+  border: 8px solid #7DCFB6;
+}
+
+.music_reply3 {
+  transition: 1s linear all;
+  position: absolute;
+  width: 75%;
+  height: 75%;
+  top: 15%;
+  left: 15%;
+  border: 12px solid #00B2CA;
+}
